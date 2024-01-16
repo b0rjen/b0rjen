@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @b0rjen
 - 👀 I’m interested in data and whatever comes with it. Hands-on learner.
-- 🌱 I’m currently learning data analysis, visualization, and frameworks. All of that with a python twist.
-- 💞️ I’m looking to collaborate with whoever wants to collaborate with me.
-- 📫 How to reach me through email: borja@borja.app , but feel free to reach me by twitter / linkedin (see below picture)
+- 🌱 I’m currently learning data analysis, visualization, and frameworks... with a python twist!
+- 💞️ I’m looking to collaborate with every nice person.
+- 📫 How to reach me through email: borja@borja.app , but feel free to reach me by twitter / linkedin
 - 🇪🇸 / 🇬🇧 󠁧󠁢󠁥󠁮󠁧󠁿- Spoken here
 
 <!---
